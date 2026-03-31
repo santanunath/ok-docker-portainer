@@ -3,7 +3,9 @@
 # docker-portainer
 Docker compose for Portainer.  
 
-$ sudo docker-compose up -f.  
+$ sudo docker-compose up -d    
 
-in your browser, enter.. 
-rpi-ip:9443
+in your browser, enter..    
+rpi-ip:9443   
+    
+$ sudo docker-compose down

@@ -6,6 +6,10 @@ Docker compose for Portainer.
 $ sudo docker-compose up -d    
 
 in your browser, enter..    
-rpi-ip:9443   
+https://rpi-ip:9443   
+    
+Username: admin    
+Password: portainer123 (mustB, min 12 char)   
+   
     
 $ sudo docker-compose down
